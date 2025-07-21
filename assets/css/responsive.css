@@ -1,0 +1,226 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap");
+
+@font-face {
+  font-family: ScenePro;
+  src: url("../fonts/ScenePro-Regular.ttf");
+  font-weight: 400;
+}
+
+@media screen and (min-width: 1024px) {
+  .nav a {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+  }
+
+  .dropdown-parent {
+    padding: 0px;
+  }
+
+  .dropdown-parent i {
+    font-size: 10px;
+  }
+
+  p {
+    font-size: 16.6px;
+    line-height: 26px;
+  }
+
+  .nav-pills .nav-link {
+    padding: 15px;
+  }
+
+  .text-block h5 {
+    font-size: 26px;
+  }
+
+  .text-block p {
+    font-size: 15px !important;
+    line-height: 18px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .feature-item .text-block {
+    margin-bottom: 10px;
+  }
+
+  .feature-item {
+    padding: 20px 0;
+    margin-bottom: 30px;
+  }
+
+  .choose-para ul li {
+    font-size: 15px !important;
+  }
+
+  .choose-para {
+    padding-right: 60px !important;
+  }
+
+  .hero .play-btn i {
+    font-size: 25px;
+  }
+
+  .testimonial-thumb .play-btn {
+    width: 50px;
+    height: 50px;
+    position: relative;
+  }
+
+  .testimonial-thumb .play-btn i {
+    font-size: 25px;
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+  }
+
+  .home-slider-prev i,
+  .home-slider-next i {
+    font-size: 20px;
+  }
+
+  .seg-head h2 {
+    line-height: 80px;
+  }
+
+  .product-title {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .product-desc {
+    font-size: 15px !important;
+    min-height: 68px !important;
+  }
+
+  .view-details {
+    font-size: 15px;
+  }
+
+  .view-details i {
+    font-size: 12px;
+    padding-left: 8px;
+  }
+
+  .lead {
+    font-size: 25px !important;
+    line-height: 35px;
+  }
+
+  .btn-red-one {
+    font-weight: 600;
+    padding: 12px 35px;
+  }
+
+  .form-one .form-control,
+  .form-one .form-select,
+  .form-one .form-control::placeholder {
+    font-size: 14px !important;
+  }
+
+  .form-one .form-container {
+    max-width: 900px;
+  }
+
+  .form-check {
+    gap: 3px;
+  }
+
+  .form-check-label {
+    font-size: 12px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .custom-checkbox .form-check-input {
+    width: 14px;
+    height: 14px;
+    margin-right: 5px;
+  }
+
+  .submit-btn {
+    padding: 10px 22px;
+  }
+
+  .locat-sec .form-select {
+    font-size: 16px;
+  }
+
+  .location-divider {
+    margin: 18px 0px;
+  }
+
+  .location-card .get-direction {
+    font-size: 10px;
+    padding-left: 20px;
+  }
+
+  .location-card h6,
+  .icon-text .email-phone-text {
+    font-size: 14px;
+  }
+
+  .location-card .icon-text {
+    display: flex;
+    align-items: center !important;
+    justify-content: start;
+  }
+
+  .icon-text.email-phone-text a {
+    font-family: "Overpass", "sans-serif" !important;
+  }
+
+  .location-card .icon-text img {
+    margin-top: 0 !important;
+  }
+
+  .blog-meta,
+  .blog-date {
+    font-size: 15px;
+  }
+
+  .blog-title {
+    font-size: 18px;
+  }
+
+  .blog-title {
+    font-size: 18px;
+    line-height: 28px;
+    padding-right: 20px;
+  }
+
+  .highlight-border {
+    box-shadow: 0 0px 0 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.15) !important;
+  }
+
+  .choose-para .btn-one {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .feature-para p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .feature-box {
+    gap: 12px;
+    padding: 30px 10px;
+  }
+
+  .footer-link a {
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 15px;
+    padding: 10px 15px;
+  }
+
+  .copy-p p {
+    font-size: 13px;
+  }
+
+  .f-icon img {
+    width: 16px;
+  }
+}
